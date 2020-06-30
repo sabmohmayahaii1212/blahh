@@ -5,19 +5,18 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
+	font-family: helvectica, fantasy;
 	color: #000000;
 }
 
 body {
-	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	background-color: #cafeec;
 
 }
 
 p {
 	padding: 10px;
-	margin: 0;
+	margin: 10px;
 }
 
 .container {
@@ -30,8 +29,8 @@ p {
 }
 
 section {
-	border:	1px solid black;
-	background-color: #00FF99;
+	border:	20px solid black;
+	background-color: #ffdd00;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
@@ -41,7 +40,7 @@ section {
 }
 
 #chicken {
-	border: 1px solid black;
+	border: 3px solid black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
@@ -51,11 +50,11 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: #40ff00;
 }
 
 #beef {
-	border: 1px solid black;
+	border: 3px solid black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
@@ -69,7 +68,7 @@ section {
 }
 
 #sushi {
-	border: 1px solid black;
+	border: 3px solid black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
@@ -101,17 +100,17 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: #FFFFFF;
+  color: #a369ff;
 }
 
 #header-nav {
   border: 0;
   background-color: #FC5F06;
-  color: #FFFFFF;
+  color: #a369ff;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid #a369ff;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
